@@ -1,7 +1,3 @@
-Voici un fichier `README.md` complet, structuré et professionnel pour votre projet final **LIVRES & VOUS**. Vous pouvez directement copier-coller ce contenu dans un fichier nommé `README.md` à la racine de votre dossier `bibliotheque2`.
-
----
-
 # LIVRES & VOUS — Bibliothèque en ligne
 
 > **Projet Final — DCLIC Dev Web**
